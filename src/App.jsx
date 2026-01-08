@@ -26,8 +26,7 @@ function App() {
  <Route path="/product/ramps/:id" element={<RampsProductDetail />} /> 
  <Route path="/product/skateparks/:id" element={<SkateparksProductDetail />} />
  <Route path="/product/diy/:id" element={<DiyProductDetail />} />
-        {/* <Route path="/product/skateparks/:id" element={<SkateparksProductDetail />} />
-         <Route path="/product/diy/:id" element={<DiyProductDetail />} /> */}
+       
 
 
     
